@@ -54,7 +54,7 @@ Days are as follows:
 
 
 
-##Example: What was the day of the week on 16th July,1776 ?
+#Example: What was the day of the week on 16th July,1776 ?
 
 Step-1: 1776-1=1775
 
