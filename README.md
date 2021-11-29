@@ -83,7 +83,7 @@ Step-3: 16th July,1776
               May-31
               June-30
               July-16
-                      198
-                       = 198 / 7 = 2
+                  198
+                  = 198 / 7 = 2
 
 Step-4: 0 + 2 = 2 (Tuesday) 
