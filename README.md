@@ -24,7 +24,7 @@ Step-2:  (Sum of Step1) / 7 = Remainder
 
 Step-3: Running months,
 
-Sum of running months / 7= Remainder 
+Sum of running months / 7 = Remainder 
 
 
 Step-4: (Step2+Step3 odd days) / 7 = Remainder 
@@ -66,13 +66,13 @@ Step-1: 1776-1=1775
                   1700                                                       75/4
           
         
-         1600        100                                       18*2           (75-18)*1
+         1600          100                                       18*2           (75-18)*1
 
 
-            0              5                                           36      +        57       =  93/7  
-                                                                                                         =  2
+          0             5                                         36      +        57       =  93/7  
+                                                                                            =  2
 
-Step-2: (0+5+2) / 7 =0
+Step-2: (0+5+2) / 7 = 0
 
 Step-3: 16th July,1776
  
