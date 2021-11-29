@@ -3,7 +3,7 @@ mm=input("Month: ")
 year=input("Year: ")
 #Step1
 years=int(year)-1
-#Step2
+
 year_first2=int(years)/100
 year_first2=int(year_first2)%4
 if(year_first2==0):
@@ -16,7 +16,7 @@ elif(year_first2==3):
 	year_first2=1
 else:
 	print("Nothing")
-#Step3
+	
 year_last2=int(years)%100
 lastb=int(year_last2/4)
 lastc=lastb*2
@@ -24,10 +24,12 @@ lastd=year_last2-lastb
 laste=(lastc+lastd)
 lastf=int(laste)%7
 year_last2=lastf
-#Step4
+
+#Step2
 year_result=int(year_first2+year_last2)
 year_result=year_result%7
-#Step5
+
+#Step3
 jan=31
 year=int(year)%4
 if(int(year)==0):
@@ -74,6 +76,7 @@ elif(mm==12 and dd<=31):
 else:
 	print("Nothing")
 
+#Step4
 days=int(year_result+d)%7
 if(days==0):
 	day="Sunday"
