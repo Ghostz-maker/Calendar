@@ -10,7 +10,7 @@ Centuary &  Leap/Ordinary Year
 Centuary/4                             year/4
  
                 
-             
+                       (leap year)                 (ordinary year)
                        Quotient*2                  Year-Quotient*1
 
 For Centuary,
