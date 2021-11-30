@@ -1,5 +1,5 @@
 # Calender
-Provides day of any given date and year
+Provides day of the week of any given date and year
                                                                           
 # LOGIC
 
