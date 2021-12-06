@@ -4,7 +4,7 @@ Provides day of the week of any given date and year
 
 
 
-  https://user-images.githubusercontent.com/55947732/144851896-d999ffc6-40dc-4289-86ea-c1389f579af1.gif
+ <a href> https://user-images.githubusercontent.com/55947732/144851896-d999ffc6-40dc-4289-86ea-c1389f579af1.gif> Calender </a>
 
 
 
