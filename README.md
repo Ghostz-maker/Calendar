@@ -1,4 +1,4 @@
-# Calender
+# Calendar
 Provides day of the week of any given date and year
 
 
